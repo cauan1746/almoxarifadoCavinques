@@ -13,9 +13,10 @@ namespace AlmoxarifadoBackAPI.Controllers
         private readonly ICategoriaRepositorio _db;
         public CategoriaController(ICategoriaRepositorio db)
         {
-            _db =db;
-      
+            _db = db;
         }
+      
+        
 
         [HttpGet("/lista")]
         public IActionResult listaCategorias()
