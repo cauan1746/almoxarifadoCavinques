@@ -16,6 +16,8 @@ builder.Services.AddDbContext<Context>(options =>
 builder.Services.AddScoped<ICategoriaRepositorio, CategoriaRepositorio>();
 
 
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

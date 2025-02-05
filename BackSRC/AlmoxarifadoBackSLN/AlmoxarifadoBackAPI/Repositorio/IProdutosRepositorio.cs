@@ -1,6 +1,12 @@
-﻿namespace AlmoxarifadoBackAPI.Repositorio
+﻿using AlmoxarifadoBackAPI.Models;
+
+namespace AlmoxarifadoBackAPI.Repositorio
 {
-    public class IProdutosRepositorio
+    public interface IProdutosRepositorio
     {
+        void Add(Produtos produtos);
+
+        List<Produtos> GetAll();
+
     }
 }
