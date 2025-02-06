@@ -11,10 +11,10 @@ namespace AlmoxarifadoBackAPI.Repositorio
             _db = db;
         }
 
-        public void Add(Categoria categoria)
+        public void Add(Categoria obj)
         {
 
-            _db.Categoria.Add(categoria);
+            _db.Categoria.Add(obj);
             _db.SaveChanges();
         }
 

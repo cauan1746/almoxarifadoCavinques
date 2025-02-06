@@ -20,7 +20,7 @@ namespace AlmoxarifadoBackAPI.Controllers
 
 
 
-        [HttpGet("/lista")]
+        [HttpGet("/listaprodutos")]
         public IActionResult listaProdutos()
         {
             return Ok(_db.GetAll());
@@ -32,17 +32,21 @@ namespace AlmoxarifadoBackAPI.Controllers
             return Ok(_db.GetAll().Where(x => x.Id == produtos.Id));
         }
 
-        //[HttpPost("/addprodutos")]
-        //public IActionResult criarCategoria(CategoriaCadastroDTO categoria)
-        //{
+        [HttpPost("/addprodutos")]
+        public IActionResult criarProduto(ProdutosCadastroDTO produto)
+        {
 
-        //    var novaCategoria = new Categoria()
-        //    {
-        //        Descricao = categoria.Descricao
-        //    };
-        //    //_categorias.Add(novaCategoria);
-        //    _db.Add(novaCategoria);
-        //    return Ok("Cadastro com Sucesso");
-        //}
+            var novoProduto = new Produtos()
+            {
+                DescProduto = produto.DescProduto,
+                UnidMedida = produto.UnidMedida ,
+                EstoqueAtual = produto.EstoqueAtual,
+                EPermamente = produto.EPermamente,
+                Codigo = produto.Codigo
+            };
+            //_categorias.Add(novaCategoria);
+            _db.Add(novoProduto);
+            return Ok("Cadastro com Sucesso");
+        }
     }
 }

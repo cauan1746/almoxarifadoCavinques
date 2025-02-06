@@ -2,7 +2,7 @@
 
 namespace AlmoxarifadoBackAPI.Repositorio
 {
-    public class ProdutosRepositorio
+    public class ProdutosRepositorio : IProdutosRepositorio
     {
         private readonly Context _db;
 
@@ -11,10 +11,10 @@ namespace AlmoxarifadoBackAPI.Repositorio
             _db = db;
         }
 
-        public void Add(Produtos produtos)
+        public void Add(Produtos obj)
         {
 
-            _db.Produtos.Add(produtos);
+            _db.Produtos.Add(obj);
             _db.SaveChanges();
         }
 
