@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\categoriacadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\categoriacadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\repositorio\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\repositorio\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -37,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\almoxarifadobackapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\almoxarifadobackapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\categoriacadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\categoriacadastrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|c:\\users\\professor.cetafest\\documents\\github\\alomoxarifadoafrodite\\backsrc\\almoxarifadobacksln\\almoxarifadobackapi\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F216845-FC3F-46BC-8BA1-027EFA3BC090}|AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj|solutionrelative:almoxarifadobackapi\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,42 +54,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Categoria.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:46:36.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-24T18:39:08.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ICategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs*",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs*",
+              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\ICategoriaRepositorio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T20:01:26.56Z",
@@ -97,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Properties\\launchSettings.json",
@@ -110,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Controllers\\CategoriaController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:52:21.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\Context.cs",
@@ -136,33 +110,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Program.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Program.cs",
               "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Program.cs",
               "RelativeToolTip": "AlmoxarifadoBackAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T14:11:48.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoriaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs*",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T18:53:22.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "CategoriaDTO.cs",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaDTO.cs",
@@ -175,7 +149,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaCadastroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:58:00.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\appsettings.json",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T18:39:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\Models\\Categoria.cs",
+              "RelativeToolTip": "AlmoxarifadoBackAPI\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:46:36.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AlmoxarifadoBackAPI",
               "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
               "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
@@ -183,19 +196,6 @@
               "RelativeToolTip": "AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-24T20:02:57.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoriaCadastroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "RelativeDocumentMoniker": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "ToolTip": "C:\\Users\\professor.cetafest\\Documents\\GitHub\\alomoxarifadoafrodite\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "RelativeToolTip": "AlmoxarifadoBackAPI\\DTO\\CategoriaCadastroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T18:58:00.44Z",
               "EditorCaption": ""
             }
           ]
