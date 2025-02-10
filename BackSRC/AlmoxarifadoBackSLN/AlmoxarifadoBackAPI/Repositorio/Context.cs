@@ -1,5 +1,6 @@
 ﻿using AlmoxarifadoBackAPI.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace AlmoxarifadoBackAPI.Repositorio
 {
@@ -20,10 +21,16 @@ namespace AlmoxarifadoBackAPI.Repositorio
 
             modelBuilder.Entity<Secretaria>().HasKey(c => c.IdSec);
             modelBuilder.Entity<Secretaria>().Property(c => c.IdSec).ValueGeneratedOnAdd();
+
+            modelBuilder.Entity<Entrada>().HasKey(c => c.IdEnt);
+            modelBuilder.Entity<Entrada>().Property(c => c.IdEnt).ValueGeneratedOnAdd();
         }
+
+
         public DbSet<Categoria> Categoria { get; set; }
         public DbSet<Produtos> Produtos { get; set; }
         public DbSet<Fornecedor> Fornecedor { get; set; }
         public DbSet<Secretaria> Secretaria { get; set; }
+        public DbSet<Entrada> Entrada { get; set; }
     }
 }
