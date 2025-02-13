@@ -19,7 +19,7 @@ builder.Services.AddScoped<IFornecedorRepositorio, FornecedorRepositorio>();
 builder.Services.AddScoped<ISecretariaRepositorio, SecretariaRepositorio>();
 builder.Services.AddScoped<IEntradaRepositorio, EntradaRepoitorio>();
 builder.Services.AddScoped<IItensEntradaRepositorio, ItensEntradaRepositorio>();
-
+builder.Services.AddScoped<ISaidaRepositorio, ISaidaRepositorio>();
 
 
 var app = builder.Build();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {}
+    "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoCavinques\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {
+    "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoCavinques\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+        "projectUniqueName": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoCavinques\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
         "projectName": "AlmoxarifadoBackAPI",
-        "projectPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
+        "projectPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoCavinques\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\AlmoxarifadoBackAPI.csproj",
         "packagesPath": "C:\\Users\\manha.cetafest\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoJuh\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
+        "outputPath": "C:\\Users\\manha.cetafest\\Documents\\GitHub\\almoxarifadoCavinques\\BackSRC\\AlmoxarifadoBackSLN\\AlmoxarifadoBackAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,13 +39,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net7.0": {
@@ -83,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
