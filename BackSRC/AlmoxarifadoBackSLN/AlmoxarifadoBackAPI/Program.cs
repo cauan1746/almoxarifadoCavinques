@@ -1,7 +1,11 @@
 using AlmoxarifadoBackAPI.Repositorio;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+var builder2 = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
@@ -38,3 +42,37 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+var jwtSettings = builder.Configuration.GetSection("JwtSettings");
+var secretKey = Encoding.UTF8.GetBytes(jwtSettings["SecretKey"]);
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = jwtSettings["Issuer"],
+        ValidAudience = jwtSettings["Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(secretKey)
+    };
+});
+
+builder2.Services.AddAuthorization();
+builder2.Services.AddAuthorization();
+
+var app2 = builder2.Build();
+
+// Middleware de autenticação e autorização
+app2.UseAuthentication();
+app2.UseAuthorization();
+
+app2.MapControllers();
+
+app2.Run();

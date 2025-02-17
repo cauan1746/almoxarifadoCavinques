@@ -1,6 +1,7 @@
 ﻿using AlmoxarifadoBackAPI.DTO;
 using AlmoxarifadoBackAPI.Models;
 using AlmoxarifadoBackAPI.Repositorio;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace AlmoxarifadoBackAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class SecretariaController : ControllerBase
     {
         private readonly ISecretariaRepositorio _db;
